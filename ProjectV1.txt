@@ -6,4 +6,4 @@ Item 4 (both)
 Item 5 (usr1)
 Item 6 (usr2)
 
-Item 7 (usr2)
+Item 7 (usr1)
